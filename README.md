@@ -1,3 +1,64 @@
+ArcGIS: a Comprehensive Note
+By Muhammad Lukman Husain
+
+Chapter 1: Introduction to GIS
+1.1 What Does GIS Stand for?
+1.2 What Is GIS and Why Is It Important?
+1.3 History of GIS
+1.4 Applications, Fields, and Scopes of GIS in Bangladesh
+GIS Quiz: Behind GIS
+________________________________________
+Chapter 2: Software Used in GIS
+2.1 Required GIS Software Packages
+2.2 Installing 7-Zip
+2.3 Installation Note for ArcGIS 10.8
+________________________________________
+Chapter 3: Initial Tasks in GIS
+3.1 Getting Started with ArcGIS
+3.2 Changing Layer Properties
+3.3 Spatial Referencing
+3.4 Projection and Coordinate System
+3.5 Spatial Data
+3.6 Data Types and Formats
+3.7 Spatial Data Preparation
+3.8 GIS Data Download and Processing
+________________________________________
+Chapter 4: Make Your Survey Easy with GIS
+4.1 GIS and Google My Maps
+________________________________________
+Chapter 5: Georeferencing and Digitizing
+5.1 Georeferencing Techniques
+5.2 What Is Digitizing?
+5.3 Digitizing a Georeferenced Map (Part I)
+5.4 Digitizing a Georeferenced Map (Part II)
+5.5 Adding Fields and Data Entry
+5.6 Automatic Digitizing Using the ArcScan Toolbar
+Quiz on Digitization and Database Preparation
+________________________________________
+Chapter 6: Map Layout Preparation
+6.1 Prepare Your First Map
+6.2 Map Preparation Hacks
+6.3 Data and Map Sharing
+6.4 Sharing Map Packages, Shapefiles, and Geodatabases
+________________________________________
+Chapter 7: Geospatial Analysis Projects
+7.1 Introduction to Geospatial Analysis Projects
+7.2 Urban and Regional Planning Project
+7.3 Civil Engineering Project
+7.4 Agricultural Engineering Project
+7.5 Environmental Planning and Management Project
+7.6 Water Resources/Hydrology Engineering Project
+7.7 Disaster Science and Management Project
+________________________________________
+Resource File
+
+
+
+
+
+
+
+
 Lesson 1: Getting Started with ArcGIS
 ________________________________________
 1. Connecting and Disconnecting Folders:
